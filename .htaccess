@@ -1,3 +1,3 @@
-RewriteEngines On
+RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRules ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
