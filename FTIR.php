@@ -12,7 +12,7 @@
 			]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
 		/><![endif]-->
     <title>skas-Lab</title>
-    <meta name="author" content="themesflat.com" />
+    <meta name="authors" content="themesflats.com" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
